@@ -2,6 +2,11 @@
 This is a mirror for fdp releases meaning they shouldn't be deleted (hopefully xd)
 (This i hope will stop the trolling xd)
 
+
+## The raw version archive can be found above.
+## I will make a changelog with all changes listed for archival.
+
+
 ## check the branches to see the history of fdp's source code
 
 //below is skidded from https://github.com/skiddermc/FDPClient/blob/main/README.md
