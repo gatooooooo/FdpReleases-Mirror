@@ -61,7 +61,7 @@ dependencies {
         exclude module: "jogl-all" // we use lwjgl
         exclude module: "gluegen-rt" // this is the library for joal
     }
-    include("com.github.unlegitmc:fuckpcl:2.0") {
+    include("com.github.fdpbackup:fuckpcl:2.0") {
         exclude module: "kotlin-stdlib-jdk8"
         exclude module: "jna-platform"
     }
@@ -78,7 +78,7 @@ dependencies {
         exclude module: "junit"
     } // for read dynamic capes
 
-    include("com.github.UnlegitMC:Astar3d:bec2291cf2") // pathfinding
+    include("com.github.fdpbackup:Astar3d:bec2291cf2") // pathfinding
 
     include fileTree(include: ["*.jar"], dir: "libs")
 }
